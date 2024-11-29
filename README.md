@@ -8,3 +8,7 @@
 
 - 바닥 브러쉬 테스트 4종 추가
 - [![VOMLab 2024 Jenju Museum Floor Interaction Tests](http://img.youtube.com/vi/pnfU_TER5DM/0.jpg)](https://youtu.be/pnfU_TER5DM)
+
+### 2024.11.29
+
+- 확정된 Wave Effect 파일 추가
